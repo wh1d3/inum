@@ -10,7 +10,6 @@
   position: absolute;
   margin-left: 60%;
   margin-top: 0%;
-  border-top-left-radius: 10px black solid;
 }
 
 .about_us_t {
@@ -23,21 +22,21 @@
 
 .about_us_p {
   margin-left: 15%;
-  width: 771px;
+  width: 750px;
   font-family: 'Montserrat';
   font-style: medium;
   font-size: 32px;
   padding-top: 40px;
-  padding-bottom: 46px;
+  padding-bottom: 30px;
 }
 
 .about_us_b {
-  margin-left: 18%;
+  margin-left: 15%;
   background: #4AA453;
   width: 346px;
   height: 74px;
   border: none;
-  border-radius: 25px;
+  border-radius: 55px;
 }
 
 .about_us_b a {
