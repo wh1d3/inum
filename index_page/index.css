@@ -4,27 +4,39 @@
     box-sizing: border-box;
 }
 
+.about_us_i {
+  width: 721px;
+  height: 800px;
+  position: absolute;
+  left: 1070px;
+  top: 100px;
+}
+
 .about_us_t {
+  padding-top: 165px;
+  padding-left: 18%;
   font-family: 'Montserrat';
   font-style: bold;  
+  font-size: 38px;
 }
 
 .about_us_p {
+  margin-left: 15%;
   width: 771px;
   font-family: 'Montserrat';
   font-style: medium;
   font-size: 32px;
+  padding-top: 40px;
+  padding-bottom: 46px;
 }
 
 .about_us_b {
+  margin-left: 18%;
   background: #4AA453;
   width: 346px;
   height: 74px;
   border: none;
   border-radius: 25px;
-  display: flex;
-  justify-content: center;
-  align-content: center;
 }
 
 .about_us_b a {
@@ -35,15 +47,16 @@
   color: white;
 }
 
-.about_us_b img {
-}
-
 .scroll_down img {
     width: 50px;
     position: absolute;
     bottom: 30px;
     left: calc(50% - 25px);
     animation: arrowDown 2s infinite;
+}
+
+.scroll_down img:hover {
+  cursor: pointer;
 }
 
 @keyframes arrowDown {
@@ -55,4 +68,8 @@
       bottom: 0px;
       opacity: 0;
     }
-  }
+}
+
+footer {
+  height: 100vh;
+}
