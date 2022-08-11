@@ -10,6 +10,7 @@
   position: absolute;
   margin-left: 60%;
   margin-top: 0%;
+  border-top-left-radius: 10px black solid;
 }
 
 .about_us_t {
