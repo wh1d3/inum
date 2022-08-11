@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+.about_us {
+  background: url(/index_page/img/background.png);
+  height: 776px;
+}
+
+
 .about_us_i {
   width: 721px;
   height: 800px;
