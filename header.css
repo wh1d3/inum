@@ -33,25 +33,25 @@ header {
 .Nav_Link_Home {
     position: absolute;
     padding-left: 33px;
-    left: 728px;
+    margin-left: 23%;
 }
 
 .Nav_Link_About {
     position: absolute;
     padding-left: 33px;
-    left: 820px;
+    margin-left: 27.5%;
 }
 
 .Nav_Link_How_It {
     position: absolute;
     padding-left: 33px;
-    left: 943px;
+    margin-left: 33.5%;
 }
 
 .Nav_Link_Download {
     position: absolute;
     padding-left: 33px;
-    left: 1090px;
+    margin-left: 40.5%;
 }
 
 .Acc_Button {

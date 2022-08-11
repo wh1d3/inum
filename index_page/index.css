@@ -3,3 +3,56 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.about_us_t {
+  font-family: 'Montserrat';
+  font-style: bold;  
+}
+
+.about_us_p {
+  width: 771px;
+  font-family: 'Montserrat';
+  font-style: medium;
+  font-size: 32px;
+}
+
+.about_us_b {
+  background: #4AA453;
+  width: 346px;
+  height: 74px;
+  border: none;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.about_us_b a {
+  font-family: 'Poppins';
+  font-weight: medium;
+  font-size: 32px;
+  text-decoration: none;
+  color: white;
+}
+
+.about_us_b img {
+}
+
+.scroll_down img {
+    width: 50px;
+    position: absolute;
+    bottom: 30px;
+    left: calc(50% - 25px);
+    animation: arrowDown 2s infinite;
+}
+
+@keyframes arrowDown {
+    0% {
+      bottom: 30px;
+      opacity: 1;
+    }
+    100% {
+      bottom: 0px;
+      opacity: 0;
+    }
+  }
