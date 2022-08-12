@@ -122,10 +122,22 @@
   padding-left: 129px;
 }
 
+.step_discription span {
+  color: #4AA453;
+}
+
 .step_img {
   margin-top: -25%;
   padding-left: 710px;
   margin-bottom: 5%;
+}
+
+.step_img3 {
+  margin-left: 1010px;
+  margin-top: -30%;
+  margin-bottom: 5%;
+  width: 475px;
+  height: 755px;
 }
 
 .scroll_down_step img {
