@@ -79,6 +79,63 @@
     }
 }
 
-footer {
-  height: 100vh;
+.how_download {
+  width: 100%;
+  background: #111111;
+  margin-top: 10%;
+}
+
+.how_download_tittle {
+  padding-top: 58px;
+  font-family: 'Poppins';
+  color: white;
+  text-align: center;
+  font-size: 36px;
+}
+
+.step_tittle {
+  font-family: 'Poppins';
+  font-weight: 700;
+  color: #E9E9E9;
+  font-size: 48px;
+  padding-top: 200px;
+  padding-left: 203px;
+}
+
+.step_tittle1 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  color: #E9E9E9;
+  font-size: 48px;
+  padding-top: 200px;
+  padding-left: 203px;  
+}
+
+.step_discription {
+  width: 545px;
+  height: 360px;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 42px;
+  color: #cdcdcd;
+  padding-top: 5px;
+  padding-left: 129px;
+}
+
+.step_img {
+  margin-top: -25%;
+  padding-left: 710px;
+  margin-bottom: 5%;
+}
+
+.scroll_down_step img {
+  width: 50px;
+  position: absolute;
+  bottom: 30px;
+  left: calc(50% - 25px);
+  animation: arrowDown 2s infinite;
+}
+
+.scroll_down_step img:hover {
+  cursor: pointer;
 }

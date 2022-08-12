@@ -7,7 +7,7 @@ function scrollTo(element) {
 }
 
 var button = document.querySelector('.scroll_down');
-var footer = document.querySelector('footer')
+var footer = document.querySelector('.how_download')
 
 button.addEventListener('click', () => {
     scrollTo(footer);
