@@ -52,6 +52,17 @@
   color: white;
 }
 
+.about_us_b:hover {
+  border: 1px solid black;
+  transition: ease-in-out .4s;
+  background: white;
+}
+
+.about_us_b a:hover {
+  padding-left: 27px;
+  color: black;
+}
+
 .about_us_img {
   padding-top: 5px;
 }
@@ -135,7 +146,7 @@
 .step_img3 {
   margin-left: 1010px;
   margin-top: -30%;
-  margin-bottom: 5%;
+  margin-bottom: 3%;
   width: 475px;
   height: 755px;
 }
