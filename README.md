@@ -1,3 +1,8 @@
 # inum - sports aid application website
 
-![image](https://user-images.githubusercontent.com/109623544/184346373-6f75ae1e-a117-4965-be14-7ed4b858dbcc.png)
+
+
+![image](readme_img/readme_img1.png)
+![image](readme_img/readme_img2.png)
+![image](readme_img/readme_img3.png)
+![image](readme_img/readme_img4.png)
