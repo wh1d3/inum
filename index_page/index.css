@@ -204,9 +204,16 @@
   margin-left: 75px;
 }
 
-.news_collapse a {
+.button_news a {
   margin-left: 75px;
   font-weight: 700;
   font-size: 24px;
   color: #4AA453;
+  transition: ease-in-out .3s;
+}
+
+.button_news a:hover {
+  background: #111111;
+  border-radius: 30px;
+  color: white;
 }
