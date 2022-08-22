@@ -179,3 +179,34 @@
 .Site_News h1:hover {
   color: #4AA453;
 }
+
+.News_Bck {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+
+.news_collapse {
+  width: 500px;
+  margin-left: 3%;
+  height: 400px;
+  border: #cdcdcd 1px solid;
+  border-radius: 50px;
+}
+
+.news_collapse img {
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.news_collapse h2, p {
+  margin-left: 75px;
+}
+
+.news_collapse a {
+  margin-left: 75px;
+  font-weight: 700;
+  font-size: 24px;
+  color: #4AA453;
+}
