@@ -24,12 +24,13 @@
 }
 
 .navigation ul, li, a {
+    font-weight: 600;
     font-family: 'Montserrat';
     color: black;
     text-decoration: none;
     list-style: none;
     font-size: 20px;
-    transition: ease-in-out .4s;
+    transition: ease-in-out .3s;
 }
 
 .navigation a:hover {
