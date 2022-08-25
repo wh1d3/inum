@@ -1,7 +1,7 @@
 footer {
     margin-top: 10%;
     width: 100%;
-    background: gray;
+    background: #111111;
     box-shadow: 0 15px 30px 10px rgba(0, 0, 0, .5);
     height: 29vh;
   }
@@ -14,7 +14,7 @@ footer {
   footer p {
     margin-left: 10%;
     margin-top: 0.3%;
-    color: black;
+    color: whitesmoke;
     font-family: Poppins;
     font-size: 20px;
     font-weight: 600;
@@ -26,7 +26,7 @@ footer {
   .contact_footer {
     margin-left: 9.7%;
     font-weight: 600;
-    color: black;
+    color: whitesmoke;
   }
 
   .navigation_footer {
@@ -34,11 +34,16 @@ footer {
     margin-left: 40%;
     cursor: pointer;
     margin-top: -8.7%;
+    color: whitesmoke;
+  }
+
+  .navigation_footer a {
+    color: whitesmoke;
   }
 
   .navigation_footer a:hover {
     transition: ease-in-out .4s;
-    color: white;
+    color: gray;
   }
 
   .navigation_two_footer {
@@ -46,11 +51,16 @@ footer {
     cursor: pointer;
     margin-left: 57%;
     margin-top: -6.8%;
+    color: whitesmoke;
+  }
+
+  .navigation_two_footer a {
+    color: whitesmoke;
   }
 
   .navigation_two_footer a:hover {
     transition: ease-in-out .4s;
-    color: white;
+    color: gray;
   }
 
   .footer_lorem {
