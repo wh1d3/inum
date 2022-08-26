@@ -45,81 +45,13 @@
 }
 
 .prikol_nav img  {
-    margin-top:  1px;
+    margin-top:  2px;
     margin-left: 25px;
     width: 30px;
     height: 30px;
+    transition: ease-in-out .4s;
 }
 
-
-/*.Header_Logo {
-    width: 130px;
-    margin-top: 1.1%;
-    margin-left: 4%;
+.prikol_nav img:hover  {
+    background: #111111;
 }
-
-.nav__link a {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    text-decoration: none;
-    color: black;
-    line-height: 36px;
-    top: 40px;
-}
-
-.nav__link a:hover {
-    color: #4AA453;
-}
-
-.Nav_Link_Home {
-    position: absolute;
-    padding-left: 33px;
-    margin-left: 23%;
-}
-
-.Nav_Link_About {
-    position: absolute;
-    padding-left: 33px;
-    margin-left: 27.5%;
-}
-
-.Nav_Link_How_It {
-    position: absolute;
-    padding-left: 33px;
-    margin-left: 33.5%;
-}
-
-.Nav_Link_Download {
-    position: absolute;
-    padding-left: 33px;
-    margin-left: 40.5%;
-}
-
-.Acc_Button {
-    position: absolute;
-    left: 1504px;
-    top: 40px;
-}
-
-.Acc_Button img {
-    width: 33px;
-    height: 33px;
-}
-
-.Find_Button {
-    position: absolute;
-    left: 1560px;
-    top: 43px;
-    background: none;
-    border: none;
-}
-
-.Find_Button img {
-    width: 27px;
-    height: 27px;
-}
-
-.Find_Button img:hover {
-    cursor: pointer;
-} */
